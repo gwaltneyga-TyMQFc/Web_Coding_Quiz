@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 48px;
+    margin-bottom: 50px;
+  }
+  
+  .form-container {
+    margin-top: 50px;
+  }
+  
+  form label {
+    font-size: 24px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  form input {
+    width: 100%;
+    font-size: 24px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  form button {
+    font-size: 24px;
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #005F6B;
+  }
+  
